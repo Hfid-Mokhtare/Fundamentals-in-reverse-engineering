@@ -1,0 +1,12 @@
+1 what is bit ?  The smallest digit in which the zero or one is stored
+2 what is Crumb ?  tow bit 
+3 what is Nibble ?  tow crumb or four
+4 what is Byte ?  8 bits
+5 How many bits in a byte ?  8 bits
+6 How mamy crumbs in a byte ?  4 crumbs
+7 How many Nibbles in a byte ?  2 nibble
+8  How many crumbs in a nibble ?  2 crumbs
+9 what is the lower nibble ?  first four bit in a byte
+10 what is the upper nibble ?  laste four bit in a byte
+11 what is LSB ? and why we call it LSB ? what it's value ? first bit in byte /it hase lowest value /  1 
+12 what is MSB ?and why we call it MSB ? What it's value ? laste bit in byte / it hase the higher value / 128 
