@@ -10,3 +10,6 @@
 10 what is the upper nibble ?  laste four bit in a byte
 11 what is LSB ? and why we call it LSB ? what it's value ? first bit in byte /it hase lowest value /  1 
 12 what is MSB ?and why we call it MSB ? What it's value ? laste bit in byte / it hase the higher value / 128 
+
+2 byte == word
+4 byte = double word
