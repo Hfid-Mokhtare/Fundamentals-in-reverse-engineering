@@ -1,0 +1,19 @@
+Q1 : Convert those octal nimbers to decimal.
+
+ 100_8 ==> 64_10
+ 512_8 ==> 330_10
+
+Q2 : convert (direct) those octal numbers to binary.
+
+ 100 ==> 001000000
+ 512 ==> 101001010
+
+Q3 : conbert those decimal numbers to octal.
+
+  64 ==> 100_8
+  330 ==> 512-8
+
+Q4 : convert (direct) those binary numbers to octal.
+
+  01000000 ==> 100_8
+  000101001010 ==> 512_8
