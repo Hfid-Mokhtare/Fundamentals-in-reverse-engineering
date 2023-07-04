@@ -1,0 +1,19 @@
+ Q1 : convert those hexadecimal numbers to decimal
+
+  12A4_16 ==> 4772
+  1C35_16 ==> 7221
+  100_16 ==> 256
+  115C_16 ==> 4444
+
+Q2 : convert those decimal numbers to hexadecimal
+
+  4772 ==> 12A4
+  7221 ==> 1C35
+  256 ==> 100
+  4444 ==> 115C
+
+Q3 : convert those hexadecimal numbers to binary
+  
+  13B4 ==> 0001001110110100
+  A5 ==> 10100101
+  
