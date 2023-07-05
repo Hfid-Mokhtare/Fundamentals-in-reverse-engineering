@@ -17,3 +17,17 @@ Q4 : convert (direct) those binary numbers to octal.
 
   01000000 ==> 100_8
   000101001010 ==> 512_8
+
+Q5 : convert those octal numbers to binary.
+
+  231.406 ==> 010011001.100000110
+  7255.1503 ==> 111010101101001101000011
+
+Q6 : convert those binary numbers to octal.
+
+  110111011.001010100 ==> 673.124
+  011111100.010111 ==> 374.270
+
+
+
+
