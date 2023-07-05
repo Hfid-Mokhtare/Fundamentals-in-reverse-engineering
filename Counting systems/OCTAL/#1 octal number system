@@ -28,6 +28,9 @@ Q6 : convert those binary numbers to octal.
   110111011.001010100 ==> 673.124
   011111100.010111 ==> 374.270
 
+Q7 : convert those octal numbers to Hexadecimal.
+//convert to binary than convert to hexadecimal
 
+  5473.416_8 ==> 101100111011.100001110 ==> B3B.87
 
 
