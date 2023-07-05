@@ -1,0 +1,25 @@
+if sum <= 16 we put it in the result
+if sum >= 16 We subtract 8 from the number and add 1 to the ather side.
+if the subtraction < 16 we put the result of subtraction in the result.
+if the subtraction > 16 we repete the subtraction.
+
+    5BA5+
+    C1F3
+--------------
+   11D98   
+
+*********************************************
+
+    B1.9AF3
+     c.A12D4
+--------------
+    BE.3C214
+
+*********************************************
+
+    0.ABCD1
+    F.3EE2F
+--------------
+   11.EAB11
+
+
