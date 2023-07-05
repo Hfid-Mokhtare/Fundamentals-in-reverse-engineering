@@ -1,6 +1,32 @@
 1 2 3 4 5 6 7 8 9 A B C D E F
 
-Q1 
+Q1 : Write sequence (10 number) after (5A9C)_16.
+                 // F + 1 = 0
+5A9C + 1= 5A9D
+5A9D + 1= 5A9E
+5A9E + 1= 5A9F
+5A9F + 1= 5AA0
+5AA0 + 1= 5AA1
+5AA1 + 1= 5AA2
+5AA2 + 1= 5AA3
+5AA3 + 1= 5AA4
+5AA4 + 1= 5AA5
+5AA5 + 1= 5AA6
+5AA6 + 1= 5AA7
+
+Q1 : Write sequence (10 number) bfor (EF01)_16.
+                 // 0 - 1 =F 
+EF01 - 1= EF00 
+EF00 - 1= EEFF              
+EEFF - 1= EEFE
+EEFE - 1= EEFD
+EEFD - 1= EEFC
+EEFC - 1= EEFB
+EEFB - 1= EEFA
+EEFA - 1= EEF9 
+EEF9 - 1= EEF8
+EEF8 - 1= EEF7
+
 
 
 
