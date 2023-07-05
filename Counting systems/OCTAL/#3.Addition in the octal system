@@ -1,0 +1,19 @@
+if sum <= 8 we put it in the result
+if sum > 8 We subtract 8 from the number and add 1 to the ather side.
+if the subtraction < 8 we put the result of subtraction in the result.
+if the subtraction > 8 we rpete the subtraction.
+
+  4563+
+  5623
+----------
+ 12406
+
+
+
+    4563+
+    7000+
+    6524+
+    1234
+--------------
+   23543
+
