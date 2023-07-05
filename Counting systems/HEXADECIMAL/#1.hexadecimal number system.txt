@@ -26,3 +26,8 @@ Q4   : convert those binary numbers to hexadecimal.
 
   11111001101.101100101 ==> 7CD.B28
   101010111100.0010011101 ==> ABC.274
+
+Q7 : convert those Hexadecimal numbers to octal.
+//convert to binary than convert to octal
+
+  1BA.C77_16 ==> 110111010.110001110111 ==> 672.6167_8
