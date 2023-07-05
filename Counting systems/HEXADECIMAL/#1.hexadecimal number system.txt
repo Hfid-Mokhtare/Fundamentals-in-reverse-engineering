@@ -16,4 +16,13 @@ Q3 : convert those hexadecimal numbers to binary
   
   13B4 ==> 0001001110110100
   A5 ==> 10100101
+
+Q4   : convert those hexadecimal numbers to binary
+
+  17E.F6 ==> 101111110.1111011
+  B2CA.6F8 ==> 1011001011001010.011011111
   
+Q4   : convert those binary numbers to hexadecimal.
+
+  11111001101.101100101 ==> 7CD.B28
+  101010111100.0010011101 ==> ABC.274
