@@ -1,0 +1,21 @@
+Q : how to fide the negtive naber in binary sysetem ?
+E : to fide the negtive naber in binary sysetem you shoud apply the second complemente.
+
+0XXXX ==> 0 is the value of positive bit
+1XXXX ==> 1 is the value of negative bit
+
+FIRST complement (1'st C) : is to turne 0 to 1 and 1 to 0 .
+SECOND complement (2'nd C) : is to do the first complement (1'st C) and add 1 to the first bit.
+ 
+Ex1 :  011001(+25)
+    =>  100110+
+             1
+    ------------------
+      = 100111 (-25)
+
+Ex2 : (112) = 01110000
+          ==> 10001111+
+                     1
+      ---------------------
+        = 10010000 (-112)
+
