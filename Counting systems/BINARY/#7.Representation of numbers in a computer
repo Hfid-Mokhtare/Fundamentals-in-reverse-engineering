@@ -1,0 +1,13 @@
+To do a operation in bynary system you have to complete bits to 8bits (byte);
+
+Ex : 
+ +9 = 00001001+
+  8 = 00001000
+---------------
++17 = 00010001
+
+==>the last bit '2^8' (in this example) is abpute the signel 0 ==> (+) / 1 ==> (-)
+
+In the first byte :
+ ==> the biggest positive number that we can reperesent is (+127)
+ ==> the smallest negative number that we cam represent is (-128)
