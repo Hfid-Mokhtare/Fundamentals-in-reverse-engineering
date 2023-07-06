@@ -1,0 +1,16 @@
+Q : -49 - 26 = ?
+
+==> first we have to see 49 in binary
+  49 = 00110001
+==> than we have to determine -49 in binary (using the seconde complement)
+ -49 = 11001111
+
+==> We passe through the same process to determine negative of 26
+ -26 = 11100110
+
+   -49 = 11001111              remember to delete or ignor the bits more than 8bits.
++                              and the last bit referto the signal of number
+  - 26 = 11100110              o = (+)  /  1 = (-)  
+                                           
+--------------------
+   -75 = 10110101
