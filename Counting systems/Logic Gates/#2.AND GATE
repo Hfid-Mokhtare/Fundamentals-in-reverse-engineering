@@ -1,0 +1,9 @@
+Y = A * B : reads as Y equals A AND B
+
+Y = 1 if A = 1 AND B = 1
+
+A | B | Y
+0 | 0 | 0
+0 | 1 | 0
+1 | 0 | 0
+1 | 1 | 1
