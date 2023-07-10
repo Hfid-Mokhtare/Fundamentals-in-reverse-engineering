@@ -1,0 +1,5 @@
+Y = NOT X : reads as Y equals NOT X
+
+ X | Y
+ 0 | 1
+ 1 | 0
