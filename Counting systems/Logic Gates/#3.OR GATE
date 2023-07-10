@@ -1,0 +1,9 @@
+Y = A + B : reads as Y equals A OR B
+
+Y = 1 if A = 1 OR B = 1
+
+A | B | Y
+0 | 0 | 0
+0 | 1 | 1
+1 | 0 | 1
+1 | 1 | 1
