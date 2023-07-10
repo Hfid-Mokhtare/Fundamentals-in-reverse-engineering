@@ -1,1 +1,15 @@
+==> A logic gate is an electronic circuit with one or more inputs and one output
+    It performs logical operations on the input signals to extract a specific logical signal
+
+==> Use in building processors of electronic devices and computer
+
+==> We can use the input of a logic gate in the output of another logic gate
+
+==>positive signal : hight voltage ==>1
+                     low voltage ==>0
+   nigative signal : hight voltage ==>0
+                     low voltage ==>-1
+
+==>A truth table is the number of possibilities that can enter a given logic gate
+   and is represented by the equation : 2^n /  n : number of  inputs in the logic gate
 
