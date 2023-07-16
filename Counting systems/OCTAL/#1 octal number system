@@ -1,3 +1,9 @@
+==> the BASE in Octal is : 8
+==> we can use only 7 digites : 0 to 7
+==> the maximal value in Hexadecimal system is : 7
+
+
+
 Q1 : Convert those octal nimbers to decimal.
 
  100_8 ==> 64_10
