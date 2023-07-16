@@ -1,4 +1,19 @@
- Q1 : convert those hexadecimal numbers to decimal
+==> the BASE in Hexadecimal is : 16
+==> we can use only 15 digites : 0 to 15 or F
+==> the maximal value in Hexadecimal system is : 15
+
+==> we chage 10 to A 
+         and 11 to B
+         and 12 to C
+         and 13 to D
+         and 14 to E
+         and 15 to F
+to distinguish between Hexadecimal and Decimal
+Ex: 
+     215  is maby Hexadecimal or Decimal
+  but 2F is for sure Hexadecimal
+
+Q1 : convert those hexadecimal numbers to decimal
 
   12A4_16 ==> 4772
   1C35_16 ==> 7221
